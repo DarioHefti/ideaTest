@@ -15,7 +15,6 @@
       <mapping ext="nls" type="XML" />
       <mapping ext="prlx" type="XML" />
       <mapping ext="prl" type="XML" />
-      <mapping ext="cmd" type="text" />
     </extensionMap>
   </component>
 </application>
