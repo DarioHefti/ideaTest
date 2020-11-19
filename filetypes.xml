@@ -14,7 +14,7 @@
       <mapping ext="lcx" type="XML" />
       <mapping ext="nls" type="XML" />
       <mapping ext="prlx" type="XML" />
-      <mapping ext="prl" type="CSV" />
+      <mapping ext="prl" type="XML" />
     </extensionMap>
   </component>
 </application>
