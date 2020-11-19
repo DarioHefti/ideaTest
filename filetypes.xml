@@ -1,0 +1,20 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="bin" type="ARCHIVE" />
+      <mapping ext="dcz" type="ARCHIVE" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping pattern="text" type="PLAIN_TEXT" />
+      <mapping ext="asc" type="PLAIN_TEXT" />
+      <mapping pattern=".mds" type="XML" />
+      <mapping ext="adx" type="XML" />
+      <mapping ext="mds" type="XML" />
+      <mapping ext="ada" type="XML" />
+      <mapping ext="lcx" type="XML" />
+      <mapping ext="nls" type="XML" />
+      <mapping ext="prlx" type="XML" />
+      <mapping ext="prl" type="CSV" />
+    </extensionMap>
+  </component>
+</application>
